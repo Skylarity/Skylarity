@@ -5,4 +5,4 @@ I discovered programming at a young age and quickly realized it was a passion of
 
 My professional career as a programmer has enhanced my existing skill set and allowed me the opportunity to apply my talents and create informative, intuitive, and beautiful applications.
 
-You can find me at [https://skylerrexroad.com](skylerrexroad.com).
+You can find me at [skylerrexroad.com](https://skylerrexroad.com).
