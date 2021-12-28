@@ -1,5 +1,5 @@
 ### Hi! 👋
-### I'm Skyler Rexroad.
+### I'm Skye.
 
 I discovered programming at a young age and quickly realized it was a passion of mine. I spent several years (in my free time) participating in game jams, pursuing personal projects, and performing freelance work.
 
