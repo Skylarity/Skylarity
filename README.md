@@ -1,6 +1,12 @@
 ### Hi! 👋
 ### I'm Skye.
 
-I discovered programming at a young age and quickly realized it was a passion of mine. I spent several years (in my free time) participating in game jams, pursuing personal projects, and performing freelance work.
+I make allll kiinds of things! A lot of music, a slightly less lot of game prototypes (perhaps one will see the light of day eventually).
 
-My professional career as a programmer has enhanced my existing skill set and allowed me the opportunity to apply my talents and create informative, intuitive, and beautiful applications.
+---
+
+Relevant to me:
+[skye.computer](skye.computer) | [skyeash.itch.io](skyeash.itch.io) | [cozyz.one](cozyz.one) | [81monkeys.com](81monkeys.com)
+
+Relevant to my amazing wife:
+[natikatz.art](natikatz.art) | [natikatz.itch.io](natikatz.itch.io)
