@@ -6,7 +6,10 @@ I make allll kiinds of things! A lot of music, a slightly less lot of game proto
 ---
 
 Relevant to me:
-[skye.computer](skye.computer) | [skyeash.itch.io](skyeash.itch.io) | [cozyz.one](cozyz.one) | [81monkeys.com](81monkeys.com)
+[skye.computer](skye.computer) | [skyeash.itch.io](skyeash.itch.io)
 
 Relevant to my amazing wife:
 [natikatz.art](natikatz.art) | [natikatz.itch.io](natikatz.itch.io)
+
+Relevant to both of us:
+ [cozyz.one](cozyz.one) | [81monkeys.com](81monkeys.com)
