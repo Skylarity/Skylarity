@@ -1,15 +1,14 @@
-### Hi! 👋
-### I'm Skye.
+### hi, i'm skye 👋
 
-I make allll kiinds of things! A lot of music, a slightly less lot of game prototypes.
+i'm a musician, game developer, designer, and 3D artist!
 
 ---
 
-Relevant to me:
+me:
 [skye.computer](skye.computer) | [skyeash.itch.io](skyeash.itch.io)
 
-Relevant to my amazing wife:
-[natikatz.art](natikatz.art) | [natikatz.itch.io](natikatz.itch.io)
+my amazing wife:
+[natikatz.itch.io](natikatz.itch.io)
 
-Relevant to both of us:
+both of us:
 [cozyz.one](cozyz.one)
