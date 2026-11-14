@@ -5,10 +5,10 @@ i'm a musician, game developer, designer, and 3D artist!
 ---
 
 me:
-[skye.computer](skye.computer) | [skyeash.itch.io](skyeash.itch.io)
+[skye.computer](https://skye.computer) | [skyeash.itch.io](https://skyeash.itch.io)
 
 my amazing wife:
-[natikatz.itch.io](natikatz.itch.io)
+[natikatz.itch.io](https://natikatz.itch.io)
 
 both of us:
-[cozyz.one](cozyz.one)
+[cozyz.one](https://cozyz.one)
